@@ -54,7 +54,7 @@ class App extends Component {
     <h1 className="text-5xl text-center">Intelligent video surveillance</h1>
       <div className="flex justify-center p-10">
       <VideoPlayer
-        url="https://scontent-yyz1-1.cdninstagram.com/v/t50.2886-16/65702432_608401809650778_5658085182972887040_n.mp4?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=AOn7sLtmykIAX-WaPNo&oe=5ED10733&oh=7ca65a4d2610d9a81e43b10e0c5acb92&dl=1"
+        src="src\project.mp4"
         isPlaying={isPlaying}
         volume={volume}
         onPlay={this.handlePlay}
