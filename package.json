@@ -6,13 +6,16 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
     "mdbreact": "^4.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^3.2.1",
+    "react-popup": "^0.10.0",
     "react-scripts": "3.4.1",
     "react-tilt": "^0.1.4",
     "react-video-markers": "^1.1.4",
+    "reactjs-popup": "^1.5.0",
     "rsuite": "^4.7.0"
   },
   "scripts": {
